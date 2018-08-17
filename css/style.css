@@ -1,0 +1,17 @@
+#texte{
+    height: 300px;
+    width:100%;
+}
+
+input,select,textarea{
+    font-size: 1.5em;
+    background-color: #eee;
+}
+
+.center {
+    margin: auto;
+    width: 90%;
+    border: 3px solid blue;
+    padding: 10px;
+    background-color: aquamarine;
+}
